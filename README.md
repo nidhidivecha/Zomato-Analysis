@@ -28,9 +28,15 @@ Creating interactive and dynamic Zomato KPI dashboards allows identifying trends
 Designed a multi-page Power BI Report that suits Zomato’s theme with easy navigation.
 
 **Global Analysis**
+
 ![1](https://github.com/nidhidivecha/Zomato-Analysis/assets/54711762/0f364ad2-b069-4d9e-b205-c89e5f2ef07e)
 
+
+**Performance Analysis**
+
 ![2](https://github.com/nidhidivecha/Zomato-Analysis/assets/54711762/eec3c3aa-fee1-47b6-b2ef-c9f727670f2e)
+
+**Restaurant Details**
 
 ![3](https://github.com/nidhidivecha/Zomato-Analysis/assets/54711762/88a462da-c95e-47ec-80be-5d39aece46fd)
 
